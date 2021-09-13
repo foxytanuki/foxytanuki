@@ -1,4 +1,4 @@
-## What is "Tanuki"?
+## What is "tanuki"?
 **-> [🦝    Tanuki](https://en.wikipedia.org/wiki/Japanese_raccoon_dog)**
 
 ## 🦊🦝
