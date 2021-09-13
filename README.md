@@ -1,5 +1,5 @@
 ## What is "tanuki"?
-**-> [🦝    Tanuki](https://en.wikipedia.org/wiki/Japanese_raccoon_dog)**
+**-> [Japanese raccoon dog 🦝](https://en.wikipedia.org/wiki/Japanese_raccoon_dog)**
 
 ## 🦊🦝
 - Live in a parallel universe (30h/day)
