@@ -4,6 +4,7 @@
 ## 🦊🦝
 - Blockchain/CryptoCurrency Enthusiast
 - Coffee Addict
+- [Blog(Japanese)](https://www.foxytanuki.dev/)
 
 **Speak**
 
