@@ -2,7 +2,7 @@ name: Update Profile Metrics
 
 on:
   schedule:
-    - cron: '* */12 * * *' # Update every 12 hours
+    - cron: '0 0 * * *' # Update every 12 hours
   push:
     branches: ["main"]
   workflow_dispatch:
