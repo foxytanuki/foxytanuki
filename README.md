@@ -5,5 +5,3 @@
 - Blockchain Enthusiast
 - Coffeeholic ☕
 - [Blog (Japanese)](https://www.foxytanuki.dev/)
-
-![Metrics](/github-metrics.svg)
